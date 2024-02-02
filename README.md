@@ -1,3 +1,5 @@
+# Forked from https://github.com/bizz84/nested_navigation_examples
+
 # Stateful Nested Navigation examples: GoRouter vs Beamer
 
 This is an example app showing how to implement bottom navigation with nested routes using [GoRouter](https://pub.dev/packages/go_router) and [Beamer](https://pub.dev/packages/beamer):
